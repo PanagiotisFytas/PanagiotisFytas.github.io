@@ -32,6 +32,6 @@ author_profile: true
             Reduction Testing Tool for Erlang Programs</b> <br/>
           <u>Panagiotis Fytas</u>. <br/>
           National Techical University of Athens.<br/>
-          [<a href="http://academicpages.github.io/files/thesis.pdf" class="link-in-list">thesis</a>]
+          [<a href="http://PanagiotisFytas.github.io/files/thesis.pdf" class="link-in-list">thesis</a>]
         </li>
 </ul>
