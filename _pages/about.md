@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Panagiotis Fytas"
+title: "Panagiotis (Panos) Fytas"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
