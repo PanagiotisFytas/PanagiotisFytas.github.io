@@ -17,7 +17,7 @@ author_profile: true
 </style>
 </head>
 
-  You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=3VE4eWAAAAAJ&hl=en&oi=ao) profile.
+  You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=My8psPUAAAAJ&hl=el) profile.
 
 <ul class="sparse-list">
         <li>
