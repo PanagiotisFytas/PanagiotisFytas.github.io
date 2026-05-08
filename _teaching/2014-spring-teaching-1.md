@@ -5,7 +5,8 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Cambridge, Department of Theoretical and Applied Linguistics"
 date: 2022-10-01 - 2023-05-30
+display_date: "2022-2025"
 location: "Cambridge, UK"
 ---
 
-Course Supervisor for [Li18: Computational Linguistics](https://www.mmll.cam.ac.uk/li18).
+Course Supervisor for [Li18: Computational Linguistics](https://www.mmll.cam.ac.uk/li18) across multiple academic years.

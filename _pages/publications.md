@@ -21,6 +21,23 @@ author_profile: true
 
 <ul class="sparse-list">
         <li>
+          <b>BioTriplex: a full-text annotated corpus for fine-tuning language models in gene-disease relation extraction tasks</b> <br/>
+          <u>Panagiotis Fytas</u> and collaborators. <br/>
+          Bioinformatics, 2026. Equal-contribution first author.<br/>
+          [<a href="https://pubmed.ncbi.nlm.nih.gov/41564323/" class="link-in-list">paper</a>]
+          [<a href="https://github.com/PanagiotisFytas/BioTriplex" class="link-in-list">code</a>]
+        </li>
+        <li>
+          <b>Rethinking Clinical Relevance in Chest X-ray Machine Learning: How Evaluation References Define Performance</b> <br/>
+          <u>Panagiotis Fytas</u> and collaborators. <br/>
+          Under review at Medical Image Analysis.<br/>
+        </li>
+        <li>
+          <b>Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology</b> <br/>
+          <u>Panagiotis Fytas</u> and collaborators. <br/>
+          BioNLP @ ACL 2024.<br/>
+        </li>
+        <li>
           <b>What Makes a Scientific Paper be Accepted for Publication?</b> <br/>
           <u>Panagiotis Fytas</u>, Georgios Rizos and Lucia Specia. <br/>
           CINLP @ EMNLP 2021.<br/>
