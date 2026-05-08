@@ -36,6 +36,8 @@ author_profile: true
           <b>Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology</b> <br/>
           <u>Panagiotis Fytas</u> and collaborators. <br/>
           BioNLP @ ACL 2024.<br/>
+          [<a href="https://aclanthology.org/2024.bionlp-1.17/" class="link-in-list">paper</a>]
+          [<a href="https://github.com/PanagiotisFytas/RadPert-RadPrompt" class="link-in-list">code</a>]
         </li>
         <li>
           <b>What Makes a Scientific Paper be Accepted for Publication?</b> <br/>
